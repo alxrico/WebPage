@@ -1,7 +1,29 @@
 body{
-	background-color: green;
+	background-color: white;
 }
-.about-me {
-	text-align: center;
+.modal-content {
 	color: black;
+}
+#carousel-example-generic {
+	width: 500px;
+    margin: 70px;
+}
+.buttondiv{
+	padding: 10px 10px 10px 80px;
+}
+.articlediv{
+	padding: 10px 10px 10px 80px;
+}
+.download{
+	padding: 10px 10px 10px 250px;
+}
+.tooltip {
+	display:none;
+	position:absolute;
+	border:1px solid #333;
+	background-color:#161616;
+	border-radius:5px;
+	padding:10px;
+	color:#fff;
+	font-size:12px Arial;
 }
